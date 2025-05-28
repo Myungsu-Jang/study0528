@@ -1,0 +1,22 @@
+body{
+    background-color: lightgray;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+main{
+    
+border: 2px solid black;
+    
+}
+
+input{
+    width: 120px;
+    height: 20px;
+    border: none;
+    border-bottom: 3px dashed blue;
+}
